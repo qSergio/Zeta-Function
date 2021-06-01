@@ -1,2 +1,4 @@
 # Zeta-Function
-Repo with plots for Complex Analysis Course
+Repo with contour plots for complex functions: Gamma and Riemann Zeta function. 
+
+UNAM, Complex Analysis Course.
